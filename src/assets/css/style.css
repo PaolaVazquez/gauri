@@ -1,0 +1,71 @@
+/* color's brand 
+#F1EFE7
+#F6E9CF
+#222222
+#A6A195*/
+
+/* font's brand */
+@font-face {
+  font-family: "Dream Avenue";
+  src: url("../fonts/Dream-Avenue.ttf");
+}
+@font-face {
+  font-family: "Mulish Black";
+  src: url("../fonts/Mulish-Black.ttf");
+}
+@font-face {
+  font-family: "Mulish Bold";
+  src: url("../fonts/Mulish-Bold.ttf");
+}
+@font-face {
+  font-family: "Mulish Extra Light";
+  src: url("../fonts/Mulish-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Mulish Light";
+  src: url("../fonts/Mulish-Light.ttf");
+}
+@font-face {
+  font-family: "Mulish Medium";
+  src: url("../fonts/Mulish-Medium.ttf");
+}
+@font-face {
+  font-family: "Mulish Regular";
+  src: url("../fonts/Mulish-Regular.ttf");
+}
+@font-face {
+  font-family: "Mulish Semi Bold";
+  src: url("../fonts/Mulish-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Nunito Bold";
+  src: url("../fonts/Nunito-Bold.ttf");
+}
+@font-face {
+  font-family: "Nunito Light";
+  src: url("../fonts/Nunito-Light.ttf");
+}
+@font-face {
+  font-family: "Nunito Medium";
+  src: url("../fonts/Nunito-Medium.ttf");
+}
+@font-face {
+  font-family: "Nunito Regular";
+  src: url("../fonts/Nunito-Regular.ttf");
+}
+@font-face {
+  font-family: "Nunito Semi Bold";
+  src: url("../fonts/Nunito-SemiBold.ttf");
+}
+.Logo-menu {
+  width: 150px;
+}
+.bg-menu {
+  background-color: #f1efe7;
+  font-family: "Nunito Light";
+}
+.btn-reservation {
+  background-color: #a6a195 !important;
+  border: 1px solid #a6a195 !important;
+  border-radius: 3px !important;
+}
