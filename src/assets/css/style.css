@@ -69,3 +69,26 @@
   border: 1px solid #a6a195 !important;
   border-radius: 3px !important;
 }
+.nav-link {
+  margin-right: 1rem;
+}
+.bg-footer {
+  background-color: #a6a195;
+}
+.Logo-footer {
+  width: 150px;
+}
+.menu-footer a {
+  text-decoration: none;
+  color: #000;
+  font-family: "Nunito Light";
+}
+.social-media-footer a {
+  color: #000;
+  margin-right: 1rem;
+  font-size: 20px;
+}
+.title-footer {
+  font-family: "Dream Avenue";
+  font-size: 24px;
+}
