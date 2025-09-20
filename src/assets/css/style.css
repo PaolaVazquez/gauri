@@ -63,6 +63,15 @@
 .bg-menu {
   background-color: #f1efe7;
   font-family: "Nunito Light";
+  border-radius: 20px;
+}
+.menu-relative {
+  position: relative;
+}
+.menu-absolute {
+  position: absolute;
+  width: 100%;
+  left: 0;
 }
 .btn-reservation {
   background-color: #a6a195 !important;
@@ -91,4 +100,7 @@
 .title-footer {
   font-family: "Dream Avenue";
   font-size: 24px;
+}
+.header-bg {
+  border-radius: 50px;
 }

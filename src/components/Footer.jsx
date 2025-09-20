@@ -2,7 +2,7 @@ import React from "react";
 import LogoNegro from "../assets/images/logo-png.png";
 export const Footer = () => {
   return (
-    <footer className="bg-footer py-5">
+    <footer className="bg-footer py-4">
       <div className="container">
         <div className="row">
           <div className="col-12 col-sm-12 col-md-1 col-lg-1"></div>
